@@ -1,0 +1,10 @@
+#Wed Sep 19 00:01:38 EEST 2018
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.2=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.0_908df70d64c82c03ba7658387f6efd3eb7591887
+base.1=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.0_99fbf795e6c38c8e771edf772c58721f5a7fd398
+base.0=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dd151480141837693705f94a5df083a01e75217c
+file.2=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.0_908df70d64c82c03ba7658387f6efd3eb7591887\\classes.dex
+file.1=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.0_99fbf795e6c38c8e771edf772c58721f5a7fd398\\classes.dex
+file.0=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dd151480141837693705f94a5df083a01e75217c\\classes.dex

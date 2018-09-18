@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\aboutus.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\aboutus.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\amount.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\amount.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\last.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\last.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainpage.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\mainpage.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\info_screen.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\info_screen.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\orderlist.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\orderlist.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about_us.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\about_us.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menuscreen.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\menuscreen.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\orderscreen.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\orderscreen.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splashscreen.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\menu\\splashscreen.xml"
+    }
+]

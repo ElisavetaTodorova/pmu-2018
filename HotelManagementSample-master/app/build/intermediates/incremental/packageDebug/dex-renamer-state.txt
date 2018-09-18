@@ -1,0 +1,7 @@
+#Wed Sep 19 00:01:39 EEST 2018
+base.0=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f465cadf99733d14b2a414ef17d87d989ae0cdf0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d43afef4662ee34ba9aa18808be4488a418e8036\\classes.dex
+base.1=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d43afef4662ee34ba9aa18808be4488a418e8036
+file.0=H\:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f465cadf99733d14b2a414ef17d87d989ae0cdf0\\classes.dex

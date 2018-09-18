@@ -1,0 +1,372 @@
+[
+    {
+        "outputFile": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 40,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 40,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 52,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 45,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 52,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 52,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 59,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 59,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 58,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 58,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 56,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 56,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 52,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 52,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 54,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 54,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 60,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 60,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 52,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 52,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endColumn": 64,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 64,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 62,
+                    "endOffset": 883
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 62,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 888,
+                    "endColumn": 66,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 66,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 68,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 68,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1024,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1310
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1315,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

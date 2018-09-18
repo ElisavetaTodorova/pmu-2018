@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\Downloads\HotelManagementSample-master\HotelManagementSample-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="H:\Downloads\HotelManagementSample-master\HotelManagementSample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f465cadf99733d14b2a414ef17d87d989ae0cdf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Downloads\HotelManagementSample-master\HotelManagementSample-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a1328a549d98af61be96cc33bd6f2f8ad639b2a">
+        <dex dex="H:\Downloads\HotelManagementSample-master\HotelManagementSample-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d43afef4662ee34ba9aa18808be4488a418e8036\classes.dex" />
+    </item>
+
+</items>

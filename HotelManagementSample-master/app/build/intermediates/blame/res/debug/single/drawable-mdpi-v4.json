@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\thankyou.jpg",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\thankyou.jpg"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ordelist3.jpg",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\ordelist3.jpg"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\orderlist.jpg",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\orderlist.jpg"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading2.gif",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\loading2.gif"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu.jpg",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\menu.jpg"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\orderlist2.jpg",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\orderlist2.jpg"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loginpage.jpg",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\loginpage.jpg"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\splash.jpg",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\splash.jpg"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mainpage.jpg",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\drawable-mdpi\\mainpage.jpg"
+    }
+]

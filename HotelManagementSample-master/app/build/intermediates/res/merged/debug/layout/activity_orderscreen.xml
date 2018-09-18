@@ -1,0 +1,117 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/ordelist3"
+    tools:context=".views.OrderScreen" >
+
+    <Button
+        android:id="@+id/baddorder"
+        android:layout_width="304dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="#4046A4"
+        android:gravity="center"
+        android:text="Reserve"
+        android:textColor="#FFFFFF"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/selectDateButton"
+        android:layout_width="304dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp"
+        android:background="#4046A4"
+        android:gravity="center"
+        android:text="Select date: to"
+        android:textColor="#FFFFFF"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/selectDateButton2"
+        android:layout_width="304dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:background="#4046A4"
+        android:gravity="center"
+        android:text="Select date: form"
+        android:textColor="#FFFFFF"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/nameOfTheHotel"
+        style="@android:anim/slide_in_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:textColor="#4046A4"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvno"
+        style="@android:anim/slide_in_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="90dp"
+        android:gravity="center"
+        android:text="Number of people:"
+        android:textColor="#4046A4"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/numberOfPeople"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:ems="10"
+        android:gravity="center">
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/amont"
+        style="@android:anim/slide_in_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="190dp"
+        android:gravity="center"
+        android:text="Number of rooms:"
+        android:textColor="#4046A4"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/numberOfRooms"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="220dp"
+        android:ems="10"
+        android:gravity="center">
+    </EditText>
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_orderlist.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_orderlist.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mainpage.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_mainpage.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_amount.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_amount.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_orderscreen.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_orderscreen.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_last.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_last.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menuscreen.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_menuscreen.xml"
+    },
+    {
+        "merged": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aboutus.xml",
+        "source": "H:\\Downloads\\HotelManagementSample-master\\HotelManagementSample-master\\app\\src\\main\\res\\layout\\activity_aboutus.xml"
+    }
+]
